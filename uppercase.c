@@ -13,6 +13,7 @@ int main(void)
       //Chang the letter to uppercase manually by subtracting 32 from the ascii int representation 
       // all letters are 32 distanced from upper and lower cases. 
       printf("%c", s[i] - 32);
+      //or  printf("%c", s[i] - ('a' - 'A') );
     }
     else
     {
@@ -22,3 +23,9 @@ int main(void)
   }
   printf("\n");
 }
+
+// TO RUN THIS PROGRAM 
+// IN THE TERMINAL, TYPE 
+// make uppercase 
+// ./uppercase
+// TYPE A STRING IN THE PROMPT "Before"
