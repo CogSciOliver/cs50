@@ -1,5 +1,5 @@
 //TO RUN THIS 
-//INTERMINAL TYPE
+//IN THE TERMINAL TYPE
 // make length.c 
 // ./length
 
