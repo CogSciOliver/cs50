@@ -28,6 +28,6 @@ int main(void)
 
 // TO RUN THIS PROGRAM 
 // IN THE TERMINAL, TYPE 
-// make uppercase 
-// ./uppercase
+// make uppercaseManual
+// ./uppercaseManual
 // TYPE A STRING IN THE PROMPT "Before"
